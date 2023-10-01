@@ -24,7 +24,7 @@ const Profile = ({ username, tag, location, avatar, stats }) => {
 
       <Stats>
         <ListItem>
-          <Label>Followers</Label>
+          <Label>Folowers</Label>
           <Quantity>{stats.followers}</Quantity>
         </ListItem>
         <ListItem>
